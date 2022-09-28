@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/anakin1359/anakin1359/main/profile-summary-card-output/2077/4-productive-time.svg)
-```
-
-    
